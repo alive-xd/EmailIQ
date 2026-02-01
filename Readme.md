@@ -74,3 +74,29 @@ This project focuses on:
 - intelligence
 - developer expe
 
+### 🙋 About the Creator Section  
+![About Section](https://raw.githubusercontent.com/alive-xd/ReconX/ce20c3aad640731e017454bcecb845957074296d/Screenshot%202025-06-09%20035324.png)
+
+---
+
+## 👨‍💻 About the Creator
+
+I'm [Sushen Kumar](https://www.linkedin.com/in/sushen-kumar), a passionate full-stack developer and cybersecurity enthusiast. I specialize in web development, OSINT automation, and building tools that empower the security community.
+
+ReconX is my contribution to make recon faster, smarter, and more accessible to professionals around the world.
+
+---
+
+## 📫 Get in Touch
+
+- 🔗 LinkedIn – [Sushen Kumar](https://www.linkedin.com/in/sushen-kumar)
+- 📧 Mail : sushen2312@gmail.com  
+- 📷 Instagram – [@sushen_x](https://www.instagram.com/sushen_x)
+- ☕ Buy Me a Coffee – [alivexd](https://www.buymeacoffee.com/alivexd)
+
+---
+
+## ⚠️ License
+
+This project is currently **not open-source**.  
+Feel free to share feedback or suggest new tools — your ideas are always welcome!
