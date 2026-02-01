@@ -74,10 +74,6 @@ This project focuses on:
 - intelligence
 - developer expe
 
-### 🙋 About the Creator Section  
-![About Section](https://raw.githubusercontent.com/alive-xd/ReconX/ce20c3aad640731e017454bcecb845957074296d/Screenshot%202025-06-09%20035324.png)
-
----
 
 ## 👨‍💻 About the Creator
 
